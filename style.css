@@ -184,10 +184,6 @@ body {
     }
 }
 
-
-
-
-
 #main {
     position: relative;
     background-color: #151515;
@@ -251,9 +247,6 @@ body {
 
 
 }
-
-
-
 .hero:nth-child(2) {
     margin-top: 18vh;
 }
@@ -723,12 +716,12 @@ body {
 }
 
 #footer {
-    height: 85vh;
+    height: 103vh;
     width: 100%;
     /* background-color: red; */
     position: relative;
     padding-left: 28vw;
-    margin-top: 5vw;
+    margin-top: 10vw;
     padding-right: 2vw;
 }
 
